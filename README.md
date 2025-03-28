@@ -15,31 +15,37 @@ Power BI Financial Sample Dataset (built-in)
 1.Profitability Analysis
 
   Examines profit margins across products, segments, and regions.
+  
   Highlights low-performing areas and profitable zones.
   
 2.Sales Performance
 
   Total sales breakdown by market, product category, and month.
+  
   Visuals show sales trends over time.
 
 3.Cost and Pricing Dynamics
 
   Analysis of cost of goods sold vs. revenue.
+  
   Identifies pricing impact on profitability.
 
 4.Customer Segmentation
 
   Breaks down sales and profits by customer segments.
+  
   Shows which customer groups drive the most value.
 
 5.Comparative Performance
 
   Region-wise and segment-wise comparison charts.
+  
   Benchmarking against top and bottom performers.
 
 Interactive Filter Panel:
 
   Slicer-based filter page that controls all visuals across reports.
+  
   Enhances exploration by allowing dynamic filtering.
 
 🧭 Features
