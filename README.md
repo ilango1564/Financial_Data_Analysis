@@ -11,6 +11,7 @@ Power BI Desktop
 Power BI Financial Sample Dataset (built-in)
 
 🔍 Key Insights:
+
 1.Profitability Analysis
 
   Examines profit margins across products, segments, and regions.
@@ -44,13 +45,17 @@ Interactive Filter Panel:
 🧭 Features
 
 🖱️ Page Navigation Buttons
+
 Interactive buttons allow smooth transition between report pages.
 
 📅 Time-Based Trends
+
 Visualizations include line and area charts to show trends over time.
 
 🧠 Data-Driven Design
+
 Every visual element is designed to deliver a specific insight.
 
 🖼️ Dashboard Previews
+
 All major report pages and the filter panel are included as a 5 min video in the media folder for a quick look.
